@@ -51,6 +51,39 @@ This project explores different CSS positioning methods such as `absolute`, `rel
 - **FIREBASE**
 ---
 
+### Prerequisites
+
+To view and run the examples in this repository, you will need the following:
+
+- [Node.js](https://nodejs.org/) (to use the `http-server` library)
+- A web browser
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/YashithChanuka/Internet-Technologies-B70.git
+
+2. **Install the http-server library:**
+  
+   If you haven't already installed http-server, you can do so using npm:
+
+   ```bash
+   npm install -g http-server
+
+### Running the Project
+
+   To run the project on your local machine, you can use the http-server l
+
+   1. **Navigate to the directory containing the files you want to serve.**
+
+   2. **Start the server:**
+
+   ```bash
+   http-server
+
+
 ## 📂 Project Structure
 
 .index ├── case1/ ├── case2/ ├── case3/ ├── case4/ ├── case5/ └── case6/
