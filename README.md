@@ -1,4 +1,4 @@
-#🕹 CSS Positioning Assignment - Institute of Software Engineering
+# 🕹 CSS Positioning Assignment - Institute of Software Engineering
 
 This repository contains a series of design implementations that focus on the use of various CSS positioning techniques, as part of the coursework at the **Institute of Java and Software Engineering**.
 
