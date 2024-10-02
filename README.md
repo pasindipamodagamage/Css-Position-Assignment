@@ -6,7 +6,7 @@ This repository contains a series of design implementations that focus on the us
 
 This project explores different CSS positioning methods such as `absolute`, `relative`, `fixed`, `sticky`, and the `grid layout`. Each design case has been built with specific guidelines and requirements in mind, making use of HTML and CSS to create fixed layouts that don't change upon browser resizing.
 
-##  you can refer this project 👩🏾‍💻 : https://assignment-03-css-positions.web.app
+##  👩🏾‍💻 you can refer this project: 🔗 https://assignment-03-css-positions.web.app
 
 ### 🔍 Case Studies
 
