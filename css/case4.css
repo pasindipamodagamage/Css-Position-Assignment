@@ -1,0 +1,68 @@
+body {
+  margin: 0px;
+}
+
+.body {
+  position: relative;
+  top: 0vh;
+  height: 100vh;
+}
+
+.section-1 {
+  height: 100vh;
+}
+
+.section-2 {
+  background-color: #65bbff;
+}
+
+.section-3 {
+  background-color: #5e5952;
+}
+
+.section-4 {
+  background-color: #e12b2b;
+}
+
+.header {
+  width: 100%;
+  position: sticky;
+  top: 0px;
+}
+
+.header p {
+  margin: 0px;
+  height: 30px;
+  color: white;
+  font-size: 2rem;
+  font-family: "Ubuntu";
+  font-weight: 500;
+  padding: 15px 0px 15px 15px;
+}
+
+.content p {
+  margin: 0px;
+  font-size: 10rem;
+  font-family: "Ubuntu";
+  font-weight: 700;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#first-header {
+  background-color: red;
+}
+
+#second-header {
+  background-color: #014981;
+}
+
+#third-header {
+  background-color: #282b25;
+}
+
+#fourth-header {
+  background-color: #772b2a;
+}
